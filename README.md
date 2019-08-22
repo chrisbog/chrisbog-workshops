@@ -1,6 +1,6 @@
 # Welcome
 
-This repo is to be used in conjunction with the DEVNET Workshops run by Chris Bogdon at Various Cisco Events. The current cycle is for #CLUS 2019 in San Diego California. Code contained within are for sessions:
+This repo is to be used in conjunction with the DEVNET Workshops run by Chris Bogdon at Various Cisco Events. Code contained within are for the following sessions:
 
 - [DEVWKS-1001 - Hands on Exploration of NETCONF and YANG](DEVWKS-1001/Guide/DEVWKS_1001_Intro.md)
 
