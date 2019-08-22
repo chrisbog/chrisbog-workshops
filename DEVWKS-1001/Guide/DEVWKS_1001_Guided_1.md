@@ -1,4 +1,4 @@
-# Welcome to Cisco Live San Diego!
+# Welcome to DevNet Workshop!
 
 In this session **Hands-On Exploration of NETCONF and YANG** we will walk through a series of exercises to introduce the topics of NETCONF and YANG and how the two interact. In order to minimize the number of errors introduced by manually typing commands into the lab-top I've provided the user inputs below.
 
