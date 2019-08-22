@@ -1,5 +1,10 @@
 #Makefile
 
+import_image:
+	@echo "** Importing the Cisco CSR Vagrant Image **"
+	vagrant box add iosxe/16.09.01 serial-csr1000v-universalk9.16.09.01.box
+
+
 prepenv:
 	@echo "*** Creating Virtual Environment ***"
 	( \
@@ -8,6 +13,7 @@ prepenv:
 		pip install --upgrade pip; \
 		pip install -r requirements.txt; \
 )
+
 
 vagrant:
 	@echo "*** Stopping Existing VMs ***"
