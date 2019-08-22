@@ -34,4 +34,4 @@ start_1001: vagrant provision_1001 prep_1001
 cleanup:
 	@echo "*** Destroying the Vagrant box ***"
 	vagrant destroy -f
-	rm ~/code/byrne-workshops/DEVWKS-2585/code/test_python.py
+
